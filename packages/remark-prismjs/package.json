@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "escape-html": "^1.0.3",
-    "prismjs": "^1.15.0",
+    "prismjs": "git://github.com/brianfryer/prism",
     "unist-util-visit": "^1.4.0"
   },
   "publishConfig": {
